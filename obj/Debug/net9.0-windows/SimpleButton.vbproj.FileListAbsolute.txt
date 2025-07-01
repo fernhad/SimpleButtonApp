@@ -1,0 +1,14 @@
+C:\Users\elmur\SimpleButtonApp\SimpleButton\bin\Debug\net9.0-windows\SimpleButton.exe
+C:\Users\elmur\SimpleButtonApp\SimpleButton\bin\Debug\net9.0-windows\SimpleButton.deps.json
+C:\Users\elmur\SimpleButtonApp\SimpleButton\bin\Debug\net9.0-windows\SimpleButton.runtimeconfig.json
+C:\Users\elmur\SimpleButtonApp\SimpleButton\bin\Debug\net9.0-windows\SimpleButton.dll
+C:\Users\elmur\SimpleButtonApp\SimpleButton\bin\Debug\net9.0-windows\SimpleButton.pdb
+C:\Users\elmur\SimpleButtonApp\SimpleButton\obj\Debug\net9.0-windows\SimpleButton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elmur\SimpleButtonApp\SimpleButton\obj\Debug\net9.0-windows\SimpleButton.AssemblyInfoInputs.cache
+C:\Users\elmur\SimpleButtonApp\SimpleButton\obj\Debug\net9.0-windows\SimpleButton.AssemblyInfo.vb
+C:\Users\elmur\SimpleButtonApp\SimpleButton\obj\Debug\net9.0-windows\SimpleButton.vbproj.CoreCompileInputs.cache
+C:\Users\elmur\SimpleButtonApp\SimpleButton\obj\Debug\net9.0-windows\SimpleButton.dll
+C:\Users\elmur\SimpleButtonApp\SimpleButton\obj\Debug\net9.0-windows\refint\SimpleButton.dll
+C:\Users\elmur\SimpleButtonApp\SimpleButton\obj\Debug\net9.0-windows\SimpleButton.pdb
+C:\Users\elmur\SimpleButtonApp\SimpleButton\obj\Debug\net9.0-windows\SimpleButton.genruntimeconfig.cache
+C:\Users\elmur\SimpleButtonApp\SimpleButton\obj\Debug\net9.0-windows\ref\SimpleButton.dll
